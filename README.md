@@ -29,6 +29,7 @@ screen-light family routines.
 
 - [Huebloom Coloring Pages](https://huebloom.art/coloring-pages) - Free printable coloring pages for quiet art time.
 - [Crayola Free Coloring Pages](https://www.crayola.com/free-coloring-pages) - Printable coloring pages and activity sheets.
+- [ColorKind](https://colorkind.app/) - Turns ideas or family photos into age-adjusted coloring pages for quiet, printable art time.
 - [Just Color Mandalas](https://www.justcolor.net/relaxation/mandalas/) - Mandala coloring pages for focused coloring sessions.
 - [SuperColoring Mandalas](https://www.supercoloring.com/coloring-pages/mandala) - Printable mandala coloring pages in many styles.
 - [Red Ted Art](https://www.redtedart.com/) - Paper crafts and simple art projects for kids.
