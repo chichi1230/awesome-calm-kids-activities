@@ -27,6 +27,7 @@ screen-light family routines.
 
 ## Quiet Coloring and Art
 
+- [Coloring Pages Story](https://coloringpagestory.com/) - Free printable coloring pages with drawing practice for children.
 - [Huebloom Coloring Pages](https://huebloom.art/coloring-pages) - Free printable coloring pages for quiet art time.
 - [Crayola Free Coloring Pages](https://www.crayola.com/free-coloring-pages) - Printable coloring pages and activity sheets.
 - [Just Color Mandalas](https://www.justcolor.net/relaxation/mandalas/) - Mandala coloring pages for focused coloring sessions.
